@@ -1,4 +1,4 @@
-import hello as hello
+import hello
 
 
 def hello_world():
