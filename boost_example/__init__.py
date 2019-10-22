@@ -1,4 +1,4 @@
-from hello_world import hello_world
+import boost_example.greeter
 
 if __name__ == '__main__':
-    hello_world()
+    boost_example.greeter.greet()

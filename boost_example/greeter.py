@@ -1,5 +1,5 @@
 import hello
 
 
-def hello_world():
+def greet():
     print(hello.greet())
